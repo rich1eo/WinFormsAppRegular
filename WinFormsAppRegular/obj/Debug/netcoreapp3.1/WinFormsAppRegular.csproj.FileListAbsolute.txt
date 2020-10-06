@@ -1,0 +1,15 @@
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\bin\Debug\netcoreapp3.1\WinFormsAppRegular.exe
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\bin\Debug\netcoreapp3.1\WinFormsAppRegular.deps.json
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\bin\Debug\netcoreapp3.1\WinFormsAppRegular.runtimeconfig.json
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\bin\Debug\netcoreapp3.1\WinFormsAppRegular.runtimeconfig.dev.json
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\bin\Debug\netcoreapp3.1\WinFormsAppRegular.dll
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\bin\Debug\netcoreapp3.1\WinFormsAppRegular.pdb
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.csprojAssemblyReference.cache
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.AssemblyInfoInputs.cache
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.AssemblyInfo.cs
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.csproj.CoreCompileInputs.cache
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.dll
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.pdb
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.genruntimeconfig.cache
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.Form1.resources
+C:\Users\rich1\RiderProjects\WinFormsAppRegular\WinFormsAppRegular\obj\Debug\netcoreapp3.1\WinFormsAppRegular.csproj.GenerateResource.cache
